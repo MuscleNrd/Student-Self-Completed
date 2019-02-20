@@ -1,0 +1,25 @@
+Health:
+0051E20C + F8
+
+
+
+Ammo:
+
+0
+14
+384
+Static - 0051E20C
+
+
+
+
+Pistol Ammo:
+
+0285A25C
+
+
+Assualt Rifle Ammo:
+
+0285A270 + 0
+02851788 + 14
+0285A120 + 384
